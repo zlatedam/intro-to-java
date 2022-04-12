@@ -3,7 +3,7 @@
 public class TuesdayDays {
   public static void main(String [] args) {
 
-  // Cwhat the day will be in 100 days starting from a Tuesday 
+  //What the day will be in 100 days starting from a Tuesday 
   System.out.println((2 + 100) % 7);
   
 
